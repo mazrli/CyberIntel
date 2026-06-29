@@ -92,7 +92,7 @@ REST API / Dashboard / Search
 Clone the repository.
 
 ```bash
-git clone https://github.com/<username>/cyber-intelligence.git
+git clone https://github.com/mazrli/CyberIntel.git
 
 cd cyber-intelligence
 ```
