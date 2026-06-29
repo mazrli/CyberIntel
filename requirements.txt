@@ -1,0 +1,9 @@
+opml
+feedparser
+mysql-connector-python
+python-dateutil
+
+
+
+
+<--pip install -r requirements.txt-->
